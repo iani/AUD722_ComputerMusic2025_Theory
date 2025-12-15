@@ -374,4 +374,4 @@ And at the highest level:
 
 **They are called _lexical punctuation tokens_, subdivided into _delimiters_ (for strings and grouping), _operators_ (for `-`), and _radix-point markers_ (for `.` in floats).**
 
-If you want, I can also map these categories to how they are handled in real lexer implementations (regular expressions, token priority, ambiguity resolution).
+If you want, I can also map these categories to how they are handled in real lexer implementations (regular expressions, token priority, ambiguity resolution).π
