@@ -6,7 +6,19 @@ I’ll group them **by envelope logic**, not alphabetically, which is usually ho
 ---
 
 # 1. One-Shot Envelopes (NO release node)
+## Summary
+List with all methods: perc, triangle, sine, linen, step, pairs, newClear, cutoff
+Method calls, one per line:
 
+1. Env.perc 
+2. Env.triangle
+3. Env.sine
+4. Env.linen
+5. Env.step
+6. Env.pairs
+7. Env.cutoff
+
+## Details
 These **run once and finish automatically**.
 
 ---
